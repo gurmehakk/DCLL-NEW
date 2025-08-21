@@ -1,0 +1,8 @@
+numpy==1.21.2
+scikit_learn==1.2.2
+# submodlib - will be installed separately
+torch>=1.11.0  # Earliest version compatible with Python 3.10
+torchdatasets>=0.2.0
+torchvision>=0.10.1
+tqdm>=4.59.0
+wandb>=0.12.21

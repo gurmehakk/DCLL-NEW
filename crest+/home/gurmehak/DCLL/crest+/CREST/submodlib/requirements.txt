@@ -1,0 +1,11 @@
+#this file is needed for doc building by readthedocs.org
+sphinxcontrib-bibtex
+pybind11
+numpy>=1.24.4
+numba >= 0.43.0
+scipy
+scikit-learn
+matplotlib
+tqdm
+pandas
+joblib
