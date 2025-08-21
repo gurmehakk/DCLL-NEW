@@ -1,4 +1,4 @@
-# Large data and model files
+# Only exclude the largest files
 *.pkl
 *.pth
 *.pt
@@ -8,22 +8,10 @@
 *.zip
 *.model
 *.bin
-*.ckpt
 
-# Large directories
-**/2nd/
-**/submission/
-**/save/
-**/final/
-**/1/
-**/FINAL/
-**/Test/
-**/Train/
-**/data/MNIST/
-**/data/cifar*/
+# Only exclude the largest directories
+hangman/2nd/
+hangman/submission/
+seq_coreset/FINAL/
 crest+/CREST/
-
-# Cache
 __pycache__/
-*.pyc
-.cache/
