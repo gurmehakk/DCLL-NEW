@@ -1,0 +1,29 @@
+# Large data and model files
+*.pkl
+*.pth
+*.pt
+*.h5
+*.parquet
+*.tar.gz
+*.zip
+*.model
+*.bin
+*.ckpt
+
+# Large directories
+**/2nd/
+**/submission/
+**/save/
+**/final/
+**/1/
+**/FINAL/
+**/Test/
+**/Train/
+**/data/MNIST/
+**/data/cifar*/
+crest+/CREST/
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
