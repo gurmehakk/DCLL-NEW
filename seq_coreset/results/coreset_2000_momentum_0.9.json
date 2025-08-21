@@ -1,0 +1,1 @@
+{"train_loss": [2.3129725456237793], "train_acc": [10.5], "test_loss": [2.499279933141172], "test_acc": [17.16], "coreset_size": 2000, "momentum": 0.9, "epoch_times": [6.289757251739502]}

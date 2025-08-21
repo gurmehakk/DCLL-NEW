@@ -1,0 +1,5 @@
+1. best accuracy , minimumm loss 
+multiclass lr+ mnist , cifar10+resnet 18 ,ciniq10-resnet18, cifar100 +resnet18, shakespeare+resnet18
+convex multiclass lr
+reduce canvas size 1.5cm
+

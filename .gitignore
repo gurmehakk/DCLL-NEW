@@ -1,4 +1,3 @@
-# Only exclude the largest files
 *.pkl
 *.pth
 *.pt
@@ -8,10 +7,4 @@
 *.zip
 *.model
 *.bin
-
-# Only exclude the largest directories
-hangman/2nd/
-hangman/submission/
-seq_coreset/FINAL/
-crest+/CREST/
 __pycache__/
